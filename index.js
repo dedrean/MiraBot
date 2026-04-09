@@ -57,7 +57,7 @@ function pegarCodigo(userId) {
 // ===== SLASH COMMAND =====
 const commands = [
   new SlashCommandBuilder()
-    .setName('pinashub')
+    .setName('torneios')
     .setDescription('Entrar nos torneios')
 ];
 
