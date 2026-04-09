@@ -128,11 +128,11 @@ client.on('interactionCreate', async (interaction) => {
 Fala, jogador! 😈🔥
 Você está oficialmente dentro do torneio **Pinas Hub #1**.
 
-🔗 **Link do torneio:**
-[Acesse aqui](https://battlefy.com/dreanitto/pinashub/69d6b1f9682e67002fbbaca4/info)
-
 🔑 **Seu código de acesso:**
 \`${codigo}\`
+
+🔗 **Link do torneio:**
+[Acesse aqui](https://battlefy.com/dreanitto/pinashub/69d6b1f9682e67002fbbaca4/info)
 
 ⚠️ **IMPORTANTE:**
 
